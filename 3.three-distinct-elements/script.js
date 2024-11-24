@@ -1,6 +1,6 @@
 
 function runFunction(){
-const arr = [8,8,2,2];
+const arr = [12, 13, 90, 1, 10, 34, 1, 90];
 let res = threeDistinctElements(arr);
 console.log(res);
 document.getElementById("output").innerHTML = res;
